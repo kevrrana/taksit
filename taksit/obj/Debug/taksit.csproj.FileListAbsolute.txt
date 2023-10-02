@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\taksit\taksit\bin\Debug\taksit.exe.config
+C:\Users\User\source\repos\taksit\taksit\bin\Debug\taksit.exe
+C:\Users\User\source\repos\taksit\taksit\bin\Debug\taksit.pdb
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.Form1.resources
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.Properties.Resources.resources
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.csproj.GenerateResource.cache
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.exe
+C:\Users\User\source\repos\taksit\taksit\obj\Debug\taksit.pdb
